@@ -81,7 +81,7 @@ let status = {
 //CODE HERE
 
 let add = {
-    description: "Add one of more files to staging(index)"
+    description: "Add one of more files to staging(index)",
     code: "git add (filename)"
 }
 
